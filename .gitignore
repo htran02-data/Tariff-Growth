@@ -1,0 +1,7 @@
+*.duckdb
+*.duckdb.wal
+*.wal
+*.csv
+*.parquet
+.DS_Store
+.env
